@@ -1,4 +1,4 @@
 # Python
 
-This is my Python practice arena for 2022
+This is my Python practice arena
 
